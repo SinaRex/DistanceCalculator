@@ -1,4 +1,4 @@
-# distance_calculator
+# DistanceCalculator
 
 ===================================
 A mobile app where it calculates the distanceCalculator by analyzing a photo.

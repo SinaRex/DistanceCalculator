@@ -7,6 +7,7 @@ Screenshots
 -------------
 
 <img src="screenshots/ss1.png" height="400" alt="Screenshot1"/> 
+<img src="screenshots/ss2.png" height="400" alt="Screenshot2">
 
 Pre-requisites
 --------------
@@ -32,7 +33,7 @@ This app is tested on SDK 25.
 [4]: https://developer.android.com/reference/android/hardware/camera2/CameraDevice.StateCallback.html
 [5]: https://developer.android.com/reference/android/hardware/camera2/CameraCaptureSession.html
 [6]: https://developer.android.com/reference/android/hardware/camera2/CaptureRequest.html
-[7]: https://developer.android.com/reference/android/hardware/camera2/CameraCaptureSession.html#capture(android.hardware.camera2.CaptureRequest, android.hardware.camera2.CameraCaptureSession.CaptureCallback, android.os.Handler)
+[7]:https://developer.android.com/reference/android/hardware/camera2/CameraCaptureSession.html#capture
 [8]: https://inducesmile.com/android/android-camera2-api-example-tutorial/
 
 

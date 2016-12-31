@@ -3,4 +3,6 @@
     <string name="heightinfo_stext">Please enter your height:</string>
     <string name="hint_text_cm">in cm</string>
     <string name="next">Next</string>
+    <string name="calculate">Calculate</string>
+    <string name="press_btn_info">Press the button to calculate</string>
 </resources>

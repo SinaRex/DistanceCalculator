@@ -1,4 +1,4 @@
-<!--<?xml version="1.0" encoding="utf-8"?>-->
+<?xml version="1.0" encoding="utf-8"?>
 <!--<RelativeLayout-->
     <!--xmlns:android="http://schemas.android.com/apk/res/android"-->
     <!--xmlns:tools="http://schemas.android.com/tools"-->
@@ -37,7 +37,7 @@
         android:layout_height="wrap_content"
         android:inputType="number"
         android:ems="10"
-        android:id="@+id/editText8"
+        android:id="@+id/heightText"
         android:hint="@string/hint_text_cm"
         android:gravity="center_horizontal"
         android:layout_marginTop="20pt"/>
@@ -48,7 +48,7 @@
         android:layout_height="wrap_content"
         android:id="@+id/button1"
         android:layout_marginTop="30pt"
-        android:onClick="openCameraDisplay"/>
+        android:onClick="openCameraActivity"/>
 
     <TextView
         android:layout_width="match_parent"
